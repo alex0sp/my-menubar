@@ -11,7 +11,7 @@ A small macOS menu bar app that shows your live RAM usage.
 ## Requirements
 
 - macOS 13 or later
-- Xcode (or Xcode Command Line Tools) for the Swift toolchain
+- Xcode Command Line Tools for the Swift toolchain (`xcode-select --install`)
 
 ## Install
 
